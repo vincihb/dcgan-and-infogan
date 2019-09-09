@@ -1,0 +1,6 @@
+cp dcgan.py infoGAN.py
+cp losses.py losses1.py
+cp requirements.txt requirements1.txt 
+mv infoGAN.py /Users/hermes/Desktop/ms1/research/ganWork/code/myCode/infoGAN
+mv losses1.py /Users/hermes/Desktop/ms1/research/ganWork/code/myCode/infoGAN
+mv requirements1.txt /Users/hermes/Desktop/ms1/research/ganWork/code/myCode/infoGAN

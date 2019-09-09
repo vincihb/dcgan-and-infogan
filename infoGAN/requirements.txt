@@ -1,0 +1,6 @@
+tensorflow==2.0.0-beta1
+numpy==1.17.0
+ipython==7.6.1
+imageio==2.5.0
+matplotlib==3.1.1
+IPython==7.6.1
