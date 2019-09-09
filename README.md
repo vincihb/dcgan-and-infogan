@@ -1,3 +1,5 @@
 Remember to pip3 install -r requirements.txt
-Code for DCGAN
 
+Repository includes DCGAN and InfoGAN code.
+
+A work in progress. 
