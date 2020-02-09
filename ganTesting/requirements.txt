@@ -1,4 +1,4 @@
-tensorflow==1.14.0
+tensorflow>=1.15.2
 numpy==1.17.0
 ipython==7.6.1
 keras==2.2.4
