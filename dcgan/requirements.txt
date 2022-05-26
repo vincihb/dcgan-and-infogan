@@ -1,4 +1,4 @@
-tensorflow==2.0.0-beta1
+tensorflow==2.7.2
 numpy==1.17.0
 ipython==7.6.1
 imageio==2.5.0
